@@ -1,0 +1,9 @@
+body{
+color:#FFF;
+background-color:#000;
+}
+
+.output { font-weight: bold; } 
+#payment { text-decoration: underline; } 
+#graph { border: solid white 1px; background-color:#FFF;} 
+th, td { vertical-align: top; } 
